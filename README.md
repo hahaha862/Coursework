@@ -50,7 +50,7 @@ $$
 ## 3. 代码结构
 
 ```
-UniTE-main/
+AdaWC/
 ├── README.md                 # 本文档
 ├── unite2.py                 # 原版 2 模型 UNITE
 ├── unite3.py                 # 原版 3 模型 UNITE

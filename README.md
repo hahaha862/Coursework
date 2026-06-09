@@ -26,8 +26,8 @@
 每一步的融合权重按下式动态计算：
 
 $$
-\bar{s}_1 = \frac{1}{W}\sum_{t \in \mathrm{hist}_1} s_1^{(t)},\quad
-\bar{s}_2 = \frac{1}{W}\sum_{t \in \mathrm{hist}_2} s_2^{(t)}
+\bar{s}_1 = \frac{1}{W} \sum_{t \in \text{hist}_1} s_1^{(t)},\quad
+\bar{s}_2 = \frac{1}{W} \sum_{t \in \text{hist}_2} s_2^{(t)}
 $$
 
 $$

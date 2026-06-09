@@ -1,0 +1,21 @@
+Answer the question with a brief one-sentence explanation, then state the final answer on a new line starting with "Final answer:".
+
+Question: In the 1971 Number One hit Ernie by Benny Hill, what was the name of Ernie's horse who was kicked by his rival, Two-ton Ted from Teddington?
+Explanation: The song describes Ernie's horse Triggers being kicked by his rival Two-ton Ted from Teddington.
+Final answer: Triggers
+
+Question: Which British king married Mary of Teck?
+Explanation: Mary of Teck was Queen consort to King George V of the United Kingdom.
+Final answer: George V
+
+Question: Which war veteran, who died in 2009 had the nickname 'The Last Fighting Tommy'?
+Explanation: Harry Patch, the last surviving British soldier of WWI, died in 2009 and was nicknamed The Last Fighting Tommy.
+Final answer: Harry Patch
+
+Question: The traditional Royal Navy game of Uckers, invented in the late 18th century was an early version of which now popular board game?
+Explanation: Uckers is a simplified form of Ludo that became popular among Royal Navy crews.
+Final answer: Ludo
+
+Question: Which English football club play home matches at the Sports Direct Arena?
+Explanation: The Sports Direct Arena in Newcastle is the home ground of Newcastle United.
+Final answer: Newcastle United

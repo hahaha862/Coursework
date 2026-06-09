@@ -1,0 +1,501 @@
+chunk_id,original_index,problem,answer
+1,521,1479 + 4706 =,6185
+1,737,8267 + 6936 =,15203
+1,740,26 + 95 =,121
+1,660,7448 + 2103 =,9551
+1,411,6409 + 3834 =,10243
+2,1858,8739 + 4785 =,13524
+2,1986,7886 + 9632 =,17518
+2,1183,27 + 13 =,40
+2,1502,3091 + 3533 =,6624
+2,1710,16 + 15 =,31
+3,2118,80 + 22 =,102
+3,2019,4609 + 4852 =,9461
+3,2041,7317 + 1736 =,9053
+3,2425,61 + 72 =,133
+3,2221,44 + 33 =,77
+4,3726,1183 + 2100 =,3283
+4,3243,7514 + 4353 =,11867
+4,3342,57 + 57 =,114
+4,3976,1003 + 6197 =,7200
+4,3919,7202 + 5778 =,12980
+5,4576,608 + 1249 =,1857
+5,4629,5038 + 9576 =,14614
+5,4557,6055 + 2999 =,9054
+5,4641,8697 + 3796 =,12493
+5,4677,4575 + 6424 =,10999
+6,5530,6822 + 8833 =,15655
+6,5926,28 + 43 =,71
+6,5586,5183 + 1701 =,6884
+6,5025,89 + 20 =,109
+6,5332,3078 + 4440 =,7518
+7,6847,9858 + 8720 =,18578
+7,6474,8125 + 8290 =,16415
+7,6853,1454 + 2909 =,4363
+7,6540,7557 + 2897 =,10454
+7,6244,1802 + 7312 =,9114
+8,7318,8321 + 8785 =,17106
+8,7794,2323 + 4106 =,6429
+8,7718,7977 + 6608 =,14585
+8,7498,9361 + 4916 =,14277
+8,7181,3528 + 1069 =,4597
+9,8316,1927 + 5680 =,7607
+9,8459,1965 + 7432 =,9397
+9,8854,8355 + 5472 =,13827
+9,8011,9453 + 7671 =,17124
+9,8978,2321 + 4864 =,7185
+10,9833,8077 + 591 =,8668
+10,9551,7477 + 160 =,7637
+10,9782,22 + 40 =,62
+10,9535,3 + 3 =,6
+10,9144,8951 + 5056 =,14007
+11,10198,2698 + 5787 =,8485
+11,10639,3178 + 5227 =,8405
+11,10109,1872 + 5528 =,7400
+11,10618,94 + 3 =,97
+11,10314,5167 + 6758 =,11925
+12,11721,9343 + 6924 =,16267
+12,11554,87 + 74 =,161
+12,11687,3252 + 884 =,4136
+12,11914,3 + 64 =,67
+12,11095,8324 + 6165 =,14489
+13,12185,448 + 1344 =,1792
+13,12658,99 + 62 =,161
+13,12744,6192 + 6366 =,12558
+13,12970,8687 + 3138 =,11825
+13,12129,936 + 6765 =,7701
+14,13458,5995 + 7609 =,13604
+14,13387,81 + 45 =,126
+14,13532,69 + 43 =,112
+14,13895,6135 + 7893 =,14028
+14,13239,2680 + 4108 =,6788
+15,14213,7106 + 538 =,7644
+15,14552,164 + 3101 =,3265
+15,14412,37 + 98 =,135
+15,14112,53 + 97 =,150
+15,14831,5417 + 9654 =,15071
+16,15775,1069 + 6644 =,7713
+16,15340,63 + 62 =,125
+16,15095,8493 + 5550 =,14043
+16,15513,48 + 22 =,70
+16,15319,4388 + 2830 =,7218
+17,16595,28 + 29 =,57
+17,16604,58 + 68 =,126
+17,16570,5388 + 317 =,5705
+17,16826,5092 + 2542 =,7634
+17,16277,8298 + 9030 =,17328
+18,17456,7410 + 9601 =,17011
+18,17103,1394 + 2593 =,3987
+18,17539,78 + 40 =,118
+18,17049,5635 + 3478 =,9113
+18,17694,62 + 98 =,160
+19,18724,1535 + 9828 =,11363
+19,18958,5121 - 2879 =,2242
+19,18241,6948 + 622 =,7570
+19,18541,3997 + 6942 =,10939
+19,18178,3379 + 8504 =,11883
+20,19867,97 - 79 =,18
+20,19805,610 - 270 =,340
+20,19080,8999 - 8049 =,950
+20,19333,4224 - 2753 =,1471
+20,19360,41 - 33 =,8
+21,20846,9996 - 7669 =,2327
+21,20536,8469 - 3454 =,5015
+21,20926,82 - 63 =,19
+21,20538,99 - 88 =,11
+21,20196,6638 - 4150 =,2488
+22,21609,63 - 52 =,11
+22,21164,74 - 55 =,19
+22,21221,6106 - 3142 =,2964
+22,21663,66 - 55 =,11
+22,21055,95 - 3 =,92
+23,22112,9866 - 2200 =,7666
+23,22498,503 - 333 =,170
+23,22516,4364 - 98 =,4266
+23,22774,1591 - 1104 =,487
+23,22110,1646 - 301 =,1345
+24,23662,8003 - 3622 =,4381
+24,23414,81 - 77 =,4
+24,23707,7413 - 3033 =,4380
+24,23280,66 - 48 =,18
+24,23609,51 - 10 =,41
+25,24188,55 - 18 =,37
+25,24951,9132 - 7827 =,1305
+25,24650,9076 - 8857 =,219
+25,24823,81 - 20 =,61
+25,24118,86 - 8 =,78
+26,25604,7784 - 1011 =,6773
+26,25391,1526 - 12 =,1514
+26,25691,75 - 73 =,2
+26,25925,3121 - 2606 =,515
+26,25610,749 - 109 =,640
+27,26114,79 - 68 =,11
+27,26091,91 - 57 =,34
+27,26067,6412 - 3359 =,3053
+27,26953,3263 - 33 =,3230
+27,26711,37 - 27 =,10
+28,27823,1085 - 316 =,769
+28,27999,934 - 232 =,702
+28,27891,4515 - 4367 =,148
+28,27781,364 - 224 =,140
+28,27967,71 - 5 =,66
+29,28620,8757 - 878 =,7879
+29,28664,7318 - 586 =,6732
+29,28381,1352 - 598 =,754
+29,28643,58 - 28 =,30
+29,28221,2168 - 1284 =,884
+30,29889,9554 - 9491 =,63
+30,29832,9818 - 9127 =,691
+30,29416,3717 - 3246 =,471
+30,29113,93 - 85 =,8
+30,29377,4888 - 594 =,4294
+31,30202,2193 - 236 =,1957
+31,30337,8614 - 4236 =,4378
+31,30822,2531 - 377 =,2154
+31,30599,1940 - 404 =,1536
+31,30987,2587 - 1553 =,1034
+32,31291,19 - 19 =,0
+32,31107,9241 - 6391 =,2850
+32,31787,58 - 48 =,10
+32,31427,8114 - 4256 =,3858
+32,31304,4239 - 2754 =,1485
+33,32997,3537 - 2733 =,804
+33,32745,7483 - 6679 =,804
+33,32956,8085 - 7007 =,1078
+33,32049,51 - 0 =,51
+33,32699,89 - 77 =,12
+34,33016,3939 - 3046 =,893
+34,33955,2039 - 334 =,1705
+34,33750,605 - 52 =,553
+34,33082,6817 - 5365 =,1452
+34,33215,3272 - 1905 =,1367
+35,34151,1449 - 885 =,564
+35,34941,9820 - 6171 =,3649
+35,34609,87 - 35 =,52
+35,34943,6431 - 6407 =,24
+35,34657,9551 - 5199 =,4352
+36,35156,43 - 29 =,14
+36,35112,40 - 26 =,14
+36,35198,4535 - 3493 =,1042
+36,35972,76 - 47 =,29
+36,35328,5786 - 3522 =,2264
+37,36137,5903 - 1539 =,4364
+37,36855,1089 - 820 =,269
+37,36456,3584 - 2449 =,1135
+37,36207,2500 - 712 =,1788
+37,36921,2344 - 1191 =,1153
+38,37129,2453 - 2349 =,104
+38,37577,30 x 84 =,2520
+38,37078,973 - 542 =,431
+38,37569,83 x 965 =,80095
+38,37406,7347 - 4419 =,2928
+39,38647,324 x 479 =,155196
+39,38721,99 x 8 =,792
+39,38432,270 x 583 =,157410
+39,38476,557 x 724 =,403268
+39,38022,287 x 230 =,66010
+40,39188,57 x 18 =,1026
+40,39562,14 x 33 =,462
+40,39196,774 x 893 =,691182
+40,39949,868 x 199 =,172732
+40,39038,812 x 716 =,581392
+41,40970,80 x 748 =,59840
+41,40771,311 x 447 =,139017
+41,40944,21 x 49 =,1029
+41,40477,75 x 71 =,5325
+41,40347,43 x 97 =,4171
+42,41161,253 x 20 =,5060
+42,41779,882 x 194 =,171108
+42,41364,881 x 347 =,305707
+42,41033,730 x 93 =,67890
+42,41631,398 x 212 =,84376
+43,42963,26 x 65 =,1690
+43,42777,91 x 73 =,6643
+43,42495,46 x 256 =,11776
+43,42618,76 x 91 =,6916
+43,42331,40 x 30 =,1200
+44,43866,125 x 153 =,19125
+44,43454,961 x 132 =,126852
+44,43791,935 x 667 =,623645
+44,43629,158 x 821 =,129718
+44,43312,987 x 239 =,235893
+45,44414,544 x 59 =,32096
+45,44758,14 x 85 =,1190
+45,44393,29 x 87 =,2523
+45,44881,930 x 765 =,711450
+45,44687,63 x 78 =,4914
+46,45065,783 x 400 =,313200
+46,45389,714 x 793 =,566202
+46,45654,94 x 88 =,8272
+46,45602,956 x 349 =,333644
+46,45997,78 x 97 =,7566
+47,46005,409 x 325 =,132925
+47,46959,46 x 26 =,1196
+47,46564,300 x 606 =,181800
+47,46528,76 x 58 =,4408
+47,46270,647 x 601 =,388847
+48,47746,549 x 368 =,202032
+48,47036,56 x 83 =,4648
+48,47786,21 x 88 =,1848
+48,47607,833 x 311 =,259063
+48,47108,885 x 256 =,226560
+49,48221,755 x 847 =,639485
+49,48825,914 x 981 =,896634
+49,48334,813 x 345 =,280485
+49,48982,310 x 763 =,236530
+49,48042,363 x 297 =,107811
+50,49743,946 x 78 =,73788
+50,49428,28 x 73 =,2044
+50,49941,950 x 477 =,453150
+50,49986,854 x 558 =,476532
+50,49943,604 x 453 =,273612
+51,50092,781 x 478 =,373318
+51,50209,451 x 525 =,236775
+51,50817,22 x 56 =,1232
+51,50130,28 x 433 =,12124
+51,50995,264 x 699 =,184536
+52,51328,868 x 436 =,378448
+52,51803,904 x 752 =,679808
+52,51928,777 x 706 =,548562
+52,51158,779 x 285 =,222015
+52,51662,728 x 142 =,103376
+53,52709,850 x 528 =,448800
+53,52965,536 x 894 =,479184
+53,52329,712 x 647 =,460664
+53,52454,34 x 347 =,11798
+53,52874,185 x 110 =,20350
+54,53458,932 x 644 =,600208
+54,53953,56 x 505 =,28280
+54,53319,818 x 134 =,109612
+54,53307,75 x 84 =,6300
+54,53183,914 x 368 =,336352
+55,54389,53 x 49 =,2597
+55,54785,589 x 361 =,212629
+55,54452,451 x 364 =,164164
+55,54283,790 x 603 =,476370
+55,54632,301 x 74 =,22274
+56,55844,403 x 691 =,278473
+56,55405,872 x 414 =,361008
+56,55532,43 x 15 =,645
+56,55959,803 x 677 =,543631
+56,55159,45 x 78 =,3510
+57,56333,528 / 22 =,24
+57,56267,588 / 7 =,84
+57,56644,46632 / 87 =,536
+57,56989,504 / 8 =,63
+57,56936,30640 / 80 =,383
+58,57890,4511 / 13 =,347
+58,57983,28801 / 83 =,347
+58,57107,49 / 7 =,7
+58,57609,4218 / 74 =,57
+58,57113,650 / 2 =,325
+59,58249,62200 / 100 =,622
+59,58353,36652 / 98 =,374
+59,58537,7925 / 25 =,317
+59,58424,40192 / 64 =,628
+59,58564,19800 / 30 =,660
+60,59545,190 / 5 =,38
+60,59298,18275 / 25 =,731
+60,59109,3199 / 7 =,457
+60,59837,10152 / 12 =,846
+60,59194,37604 / 68 =,553
+61,60492,27423 / 33 =,831
+61,60474,19829 / 79 =,251
+61,60647,7104 / 64 =,111
+61,60189,24300 / 50 =,486
+61,60333,6200 / 62 =,100
+62,61385,43120 / 55 =,784
+62,61662,3772 / 82 =,46
+62,61841,12002 / 17 =,706
+62,61011,14160 / 16 =,885
+62,61342,63190 / 89 =,710
+63,62808,33034 / 83 =,398
+63,62083,12390 / 42 =,295
+63,62643,46693 / 53 =,881
+63,62895,10625 / 17 =,625
+63,62536,50297 / 53 =,949
+64,63796,49600 / 100 =,496
+64,63940,18544 / 38 =,488
+64,63540,33176 / 44 =,754
+64,63416,1552 / 2 =,776
+64,63452,36168 / 88 =,411
+65,64114,768 / 32 =,24
+65,64147,26424 / 36 =,734
+65,64700,12056 / 22 =,548
+65,64489,15600 / 78 =,200
+65,64959,3704 / 4 =,926
+66,65906,61950 / 75 =,826
+66,65024,6600 / 15 =,440
+66,65706,42476 / 82 =,518
+66,65958,2443 / 7 =,349
+66,65355,26448 / 38 =,696
+67,66964,46875 / 75 =,625
+67,66540,37444 / 44 =,851
+67,66057,888 / 3 =,296
+67,66827,83776 / 88 =,952
+67,66075,624 / 1 =,624
+68,67301,10205 / 13 =,785
+68,67895,89089 / 91 =,979
+68,67763,44004 / 76 =,579
+68,67854,5643 / 27 =,209
+68,67049,17296 / 23 =,752
+69,68209,52900 / 92 =,575
+69,68786,56128 / 64 =,877
+69,68602,4770 / 10 =,477
+69,68394,22333 / 23 =,971
+69,68057,9048 / 87 =,104
+70,69190,321 / 1 =,321
+70,69104,64805 / 65 =,997
+70,69295,32227 / 37 =,871
+70,69012,11591 / 67 =,173
+70,69087,2332 / 44 =,53
+71,70522,11664 / 72 =,162
+71,70917,9615 / 15 =,641
+71,70538,42372 / 66 =,642
+71,70119,52628 / 59 =,892
+71,70217,65333 / 79 =,827
+72,71641,1805 / 95 =,19
+72,71987,11050 / 13 =,850
+72,71187,72075 / 93 =,775
+72,71779,27808 / 44 =,632
+72,71848,34848 / 48 =,726
+73,72146,10665 / 27 =,395
+73,72500,12255 / 19 =,645
+73,72277,2880 / 30 =,96
+73,72100,20838 / 69 =,302
+73,72803,26265 / 85 =,309
+74,73794,1116 / 36 =,31
+74,73404,21525 / 25 =,861
+74,73413,51446 / 58 =,887
+74,73896,47448 / 72 =,659
+74,73994,1488 / 93 =,16
+75,74952,31458 / 49 =,642
+75,74477,15370 / 58 =,265
+75,74146,16912 / 56 =,302
+75,74843,19230 / 30 =,641
+75,74941,52620 / 60 =,877
+76,75430,Samantha read 456 pages on Monday and 5120 pages on Tuesday. How many pages did Samantha read in total?,5576
+76,75107,"If you have 7541 apples and buy 4247 more, how many apples do you have now?",11788
+76,75160,William read 46 pages on Monday and 44 pages on Tuesday. How many pages did William read in total?,90
+76,75071,Emily read 38 pages on Monday and 17 pages on Tuesday. How many pages did Emily read in total?,55
+76,75675,"If you have 8942 apples and buy 4080 more, how many apples do you have now?",13022
+77,76245,Andrew read 6196 pages on Monday and 2710 pages on Tuesday. How many pages did Andrew read in total?,8906
+77,76712,Daniel read 3753 pages on Monday and 9009 pages on Tuesday. How many pages did Daniel read in total?,12762
+77,76530,"If you have 39 apples and buy 49 more, how many apples do you have now?",88
+77,76594,Katherine read 20 pages on Monday and 13 pages on Tuesday. How many pages did Katherine read in total?,33
+77,76263,"If you have 26 apples and buy 33 more, how many apples do you have now?",59
+78,77772,"If you have 7252 apples and buy 9219 more, how many apples do you have now?",16471
+78,77273,"If you have 20 apples and buy 41 more, how many apples do you have now?",61
+78,77793,"If you have 23 apples and buy 38 more, how many apples do you have now?",61
+78,77112,Linda read 6177 pages on Monday and 9819 pages on Tuesday. How many pages did Linda read in total?,15996
+78,77784,"If you have 30 apples and buy 30 more, how many apples do you have now?",60
+79,78422,"If you have 6384 apples and buy 6742 more, how many apples do you have now?",13126
+79,78691,"If you have 47 apples and buy 40 more, how many apples do you have now?",87
+79,78612,"If you have 3488 apples and buy 759 more, how many apples do you have now?",4247
+79,78477,Jerome read 6 pages on Monday and 25 pages on Tuesday. How many pages did Jerome read in total?,31
+79,78862,"If you have 47 apples and buy 45 more, how many apples do you have now?",92
+80,79380,"If you have 5793 apples and buy 7878 more, how many apples do you have now?",13671
+80,79288,"If you have 4536 apples and buy 8374 more, how many apples do you have now?",12910
+80,79328,"If you have 33 apples and buy 35 more, how many apples do you have now?",68
+80,79208,Anthony read 12 pages on Monday and 16 pages on Tuesday. How many pages did Anthony read in total?,28
+80,79284,"If you have 8157 apples and buy 4790 more, how many apples do you have now?",12947
+81,80389,Willie read 3999 pages on Monday and 3418 pages on Tuesday. How many pages did Willie read in total?,7417
+81,80105,Marissa read 33 pages on Monday and 13 pages on Tuesday. How many pages did Marissa read in total?,46
+81,80903,"If you have 4214 apples and buy 9239 more, how many apples do you have now?",13453
+81,80818,Michelle read 7279 pages on Monday and 6669 pages on Tuesday. How many pages did Michelle read in total?,13948
+81,80190,Rodney read 15 pages on Monday and 34 pages on Tuesday. How many pages did Rodney read in total?,49
+82,81131,"If you have 28 apples and buy 39 more, how many apples do you have now?",67
+82,81203,Michael read 38 pages on Monday and 50 pages on Tuesday. How many pages did Michael read in total?,88
+82,81050,"If you have 9335 apples and buy 7532 more, how many apples do you have now?",16867
+82,81585,Brian had 9980 candies and gave 4689 away. How many candies does Brian have left?,5291
+82,81138,Kim read 5 pages on Monday and 35 pages on Tuesday. How many pages did Kim read in total?,40
+83,82080,Tonya had 44 candies and gave 30 away. How many candies does Tonya have left?,14
+83,82789,Randall had 4731 candies and gave 3412 away. How many candies does Randall have left?,1319
+83,82869,Sara had 29 candies and gave 26 away. How many candies does Sara have left?,3
+83,82518,"There were 1169 birds on a tree. If 152 flew away, how many birds remain?",1017
+83,82794,"There were 7771 birds on a tree. If 4893 flew away, how many birds remain?",2878
+84,83441,"There were 43 birds on a tree. If 24 flew away, how many birds remain?",19
+84,83114,"There were 8 birds on a tree. If 1 flew away, how many birds remain?",7
+84,83699,"There were 1314 birds on a tree. If 850 flew away, how many birds remain?",464
+84,83406,Richard had 44 candies and gave 41 away. How many candies does Richard have left?,3
+84,83585,Hector had 47 candies and gave 45 away. How many candies does Hector have left?,2
+85,84659,"There were 30 birds on a tree. If 4 flew away, how many birds remain?",26
+85,84060,"There were 3131 birds on a tree. If 468 flew away, how many birds remain?",2663
+85,84768,Stacey had 207 candies and gave 104 away. How many candies does Stacey have left?,103
+85,84135,"There were 3185 birds on a tree. If 1786 flew away, how many birds remain?",1399
+85,84763,"There were 590 birds on a tree. If 508 flew away, how many birds remain?",82
+86,85688,"There were 4784 birds on a tree. If 1671 flew away, how many birds remain?",3113
+86,85506,Darrell had 5481 candies and gave 1312 away. How many candies does Darrell have left?,4169
+86,85937,Rachel had 40 candies and gave 4 away. How many candies does Rachel have left?,36
+86,85159,Carolyn had 2394 candies and gave 469 away. How many candies does Carolyn have left?,1925
+86,85614,Karen had 2845 candies and gave 2715 away. How many candies does Karen have left?,130
+87,86500,Andrew had 18 candies and gave 1 away. How many candies does Andrew have left?,17
+87,86792,"There were 29 birds on a tree. If 9 flew away, how many birds remain?",20
+87,86551,Chase had 9304 candies and gave 5460 away. How many candies does Chase have left?,3844
+87,86270,Erik had 8041 candies and gave 1610 away. How many candies does Erik have left?,6431
+87,86743,"There were 42 birds on a tree. If 24 flew away, how many birds remain?",18
+88,87389,Elizabeth had 6408 candies and gave 2798 away. How many candies does Elizabeth have left?,3610
+88,87142,"There were 43 birds on a tree. If 25 flew away, how many birds remain?",18
+88,87817,Scott planted 2 rows of flowers with 6 flowers in each row. How many flowers did Scott plant altogether?,12
+88,87188,"There were 3194 birds on a tree. If 397 flew away, how many birds remain?",2797
+88,87503,"A box contains 58 packs of crayons, each with 66 crayons. How many crayons are in the box?",3828
+89,88275,"A box contains 40 packs of crayons, each with 23 crayons. How many crayons are in the box?",920
+89,88388,"A box contains 59 packs of crayons, each with 62 crayons. How many crayons are in the box?",3658
+89,88248,"A box contains 62 packs of crayons, each with 80 crayons. How many crayons are in the box?",4960
+89,88733,Brianna planted 90 rows of flowers with 57 flowers in each row. How many flowers did Brianna plant altogether?,5130
+89,88430,David planted 26 rows of flowers with 59 flowers in each row. How many flowers did David plant altogether?,1534
+90,89634,"A box contains 68 packs of crayons, each with 82 crayons. How many crayons are in the box?",5576
+90,89754,Donald planted 1 rows of flowers with 1 flowers in each row. How many flowers did Donald plant altogether?,1
+90,89219,Heidi planted 86 rows of flowers with 39 flowers in each row. How many flowers did Heidi plant altogether?,3354
+90,89705,Jennifer planted 81 rows of flowers with 97 flowers in each row. How many flowers did Jennifer plant altogether?,7857
+90,89940,"A box contains 42 packs of crayons, each with 87 crayons. How many crayons are in the box?",3654
+91,90912,Lindsay planted 9 rows of flowers with 4 flowers in each row. How many flowers did Lindsay plant altogether?,36
+91,90494,"A box contains 49 packs of crayons, each with 59 crayons. How many crayons are in the box?",2891
+91,90472,Sophia planted 80 rows of flowers with 56 flowers in each row. How many flowers did Sophia plant altogether?,4480
+91,90446,"A box contains 85 packs of crayons, each with 38 crayons. How many crayons are in the box?",3230
+91,90873,William planted 2 rows of flowers with 9 flowers in each row. How many flowers did William plant altogether?,18
+92,91300,Alyssa planted 73 rows of flowers with 76 flowers in each row. How many flowers did Alyssa plant altogether?,5548
+92,91697,"A box contains 95 packs of crayons, each with 72 crayons. How many crayons are in the box?",6840
+92,91261,Alexander planted 96 rows of flowers with 11 flowers in each row. How many flowers did Alexander plant altogether?,1056
+92,91413,Yvonne planted 56 rows of flowers with 87 flowers in each row. How many flowers did Yvonne plant altogether?,4872
+92,91165,Ryan planted 88 rows of flowers with 78 flowers in each row. How many flowers did Ryan plant altogether?,6864
+93,92128,"A box contains 47 packs of crayons, each with 37 crayons. How many crayons are in the box?",1739
+93,92258,Zachary planted 23 rows of flowers with 50 flowers in each row. How many flowers did Zachary plant altogether?,1150
+93,92950,Connie planted 14 rows of flowers with 44 flowers in each row. How many flowers did Connie plant altogether?,616
+93,92024,"A box contains 50 packs of crayons, each with 36 crayons. How many crayons are in the box?",1800
+93,92992,Jim planted 28 rows of flowers with 72 flowers in each row. How many flowers did Jim plant altogether?,2016
+94,93283,James planted 75 rows of flowers with 17 flowers in each row. How many flowers did James plant altogether?,1275
+94,93251,Jennifer planted 16 rows of flowers with 83 flowers in each row. How many flowers did Jennifer plant altogether?,1328
+94,93180,Stephen planted 66 rows of flowers with 47 flowers in each row. How many flowers did Stephen plant altogether?,3102
+94,93626,Kevin planted 7 rows of flowers with 11 flowers in each row. How many flowers did Kevin plant altogether?,77
+94,93900,Casey has 4 stickers and wants to place them into albums with 4 stickers each. How many albums can Casey fill?,1
+95,94343,552 cookies are shared equally among 8 children. How many cookies does each child get?,69
+95,94237,Terri has 972 stickers and wants to place them into albums with 36 stickers each. How many albums can Terri fill?,27
+95,94570,David has 1496 stickers and wants to place them into albums with 22 stickers each. How many albums can David fill?,68
+95,94128,10 cookies are shared equally among 2 children. How many cookies does each child get?,5
+95,94931,96 cookies are shared equally among 48 children. How many cookies does each child get?,2
+96,95275,John has 2106 stickers and wants to place them into albums with 27 stickers each. How many albums can John fill?,78
+96,95065,368 cookies are shared equally among 46 children. How many cookies does each child get?,8
+96,95210,Gloria has 60 stickers and wants to place them into albums with 6 stickers each. How many albums can Gloria fill?,10
+96,95416,6474 cookies are shared equally among 83 children. How many cookies does each child get?,78
+96,95422,3008 cookies are shared equally among 94 children. How many cookies does each child get?,32
+97,96136,840 cookies are shared equally among 24 children. How many cookies does each child get?,35
+97,96125,42 cookies are shared equally among 6 children. How many cookies does each child get?,7
+97,96976,Christopher has 1602 stickers and wants to place them into albums with 89 stickers each. How many albums can Christopher fill?,18
+97,96705,George has 3818 stickers and wants to place them into albums with 83 stickers each. How many albums can George fill?,46
+97,96040,2800 cookies are shared equally among 35 children. How many cookies does each child get?,80
+98,97394,Tara has 12 stickers and wants to place them into albums with 4 stickers each. How many albums can Tara fill?,3
+98,97718,Emily has 4779 stickers and wants to place them into albums with 81 stickers each. How many albums can Emily fill?,59
+98,97817,Julie has 2511 stickers and wants to place them into albums with 93 stickers each. How many albums can Julie fill?,27
+98,97537,Peter has 3828 stickers and wants to place them into albums with 87 stickers each. How many albums can Peter fill?,44
+98,97648,4320 cookies are shared equally among 80 children. How many cookies does each child get?,54
+99,98200,Amy has 30 stickers and wants to place them into albums with 3 stickers each. How many albums can Amy fill?,10
+99,98538,Emily has 2679 stickers and wants to place them into albums with 57 stickers each. How many albums can Emily fill?,47
+99,98784,Juan has 18 stickers and wants to place them into albums with 6 stickers each. How many albums can Juan fill?,3
+99,98264,882 cookies are shared equally among 42 children. How many cookies does each child get?,21
+99,98589,Joseph has 18 stickers and wants to place them into albums with 2 stickers each. How many albums can Joseph fill?,9
+100,99741,80 cookies are shared equally among 5 children. How many cookies does each child get?,16
+100,99179,Zachary has 1682 stickers and wants to place them into albums with 29 stickers each. How many albums can Zachary fill?,58
+100,99059,585 cookies are shared equally among 45 children. How many cookies does each child get?,13
+100,99348,Tina has 450 stickers and wants to place them into albums with 45 stickers each. How many albums can Tina fill?,10
+100,99236,Brian has 4018 stickers and wants to place them into albums with 98 stickers each. How many albums can Brian fill?,41

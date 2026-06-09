@@ -1,0 +1,69 @@
+You are a careful math tutor. Solve the arithmetic problem step by step, then give the final answer in \boxed{}. End your response with <END>.
+
+Question: 12 + 7 =
+Let's think step by step
+We compute 12 + 7.
+12 + 7 = 19.
+The answer is \boxed{19}
+<END>
+
+Question: 345 - 128 =
+Let's think step by step
+We compute 345 - 128.
+Align the digits: 345 minus 128.
+5 - 8 needs a borrow, so 15 - 8 = 7, and the tens place becomes 3.
+3 - 2 = 1, and the hundreds place 3 - 1 = 2.
+So 345 - 128 = 217.
+The answer is \boxed{217}
+<END>
+
+Question: 26 * 13 =
+Let's think step by step
+We compute 26 * 13.
+26 * 13 = 26 * (10 + 3) = 260 + 78 = 338.
+The answer is \boxed{338}
+<END>
+
+Question: 864 / 12 =
+Let's think step by step
+We compute 864 / 12.
+12 * 70 = 840, remainder 24.
+12 * 2 = 24, remainder 0.
+So 864 / 12 = 72.
+The answer is \boxed{72}
+<END>
+
+Question: 47 + 58 + 36 =
+Let's think step by step
+We compute 47 + 58 + 36.
+First 47 + 58 = 105.
+Then 105 + 36 = 141.
+The answer is \boxed{141}
+<END>
+
+Question: 1000 - 357 - 243 =
+Let's think step by step
+We compute 1000 - 357 - 243.
+First 1000 - 357 = 643.
+Then 643 - 243 = 400.
+The answer is \boxed{400}
+<END>
+
+Question: 25 * 16 - 100 =
+Let's think step by step
+We compute 25 * 16 - 100.
+25 * 16 = 400.
+Then 400 - 100 = 300.
+The answer is \boxed{300}
+<END>
+
+Question: 1479 + 4706 =
+Let's think step by step
+We compute 1479 + 4706.
+Align the digits and add: 9 + 6 = 15, write 5 carry 1.
+7 + 0 + 1 = 8.
+4 + 7 = 11, write 1 carry 1.
+1 + 4 + 1 = 6.
+So 1479 + 4706 = 6185.
+The answer is \boxed{6185}
+<END>

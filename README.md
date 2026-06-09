@@ -31,9 +31,11 @@ $$
 $$
 
 $$
-w_1 = \operatorname{clip}\!\left(\frac{\bar{s}_1}{\bar{s}_1 + \bar{s}_2 + \epsilon},\; \min\_\text{weight},\; 1-\min\_\text{weight}\right),\quad
-w_2 = 1 - w_1
+\bar{s}_1 = \frac{1}{W}\sum_{t \in \text{hist}_1} s_1^{(t)},\quad
+\bar{s}_2 = \frac{1}{W}\sum_{t \in \text{hist}_2} s_2^{(t)}
 $$
+
+w_1 = \text{clip}\left(\frac{\bar{s}_1}{\bar{s}_1 + \bar{s}_2 + \epsilon},\; w_{\min},\; 1-w_{\min}\right),\quad w_2 = 1 - w_1
 其中 `min_weight` 用于防止任一模型被完全压制（例如设为 0.2 或 0.45）。这使得在生成过程中表现更稳定、置信度更高的模型能自动获得更大的融合权重。
 
 ### 2.2 冗余融合跳过（Redundant Fusion Skip）
